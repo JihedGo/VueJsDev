@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
     
 </template>
 
-<style>
+<style scoped>
 h1 {
     color: #42b983;
 }
